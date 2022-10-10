@@ -1,4 +1,4 @@
-Código Preg02
+//código Preg02
 #include <iostream>
 using namespace std;
 
