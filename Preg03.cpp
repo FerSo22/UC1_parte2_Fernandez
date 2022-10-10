@@ -6,6 +6,7 @@
 using namespace std;
 
 int main(){
+	// Aceptar símbolo del idioma español
 	setlocale(LC_CTYPE, "Spanish");
 	
 	int cantHoras = 0, importe, opcion;
